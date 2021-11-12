@@ -27,7 +27,7 @@ namespace ConsoleApp2_neuro
 
             var b2 = new double[] { 0.2 };
 
-
+            Console.WriteLine("First N2");
 
 
 
